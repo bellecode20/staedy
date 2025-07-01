@@ -32,3 +32,4 @@ for i in range(1,T+1):
     if(a[end_x][end_y]>=1):
         a[end_x][end_y]=a[end_x][end_y]-1
     print(a[end_x][end_y])
+#
